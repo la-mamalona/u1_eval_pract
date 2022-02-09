@@ -17,11 +17,11 @@ Modifica el archivo src/App.js para que permita la siguiente interacción
 - DetalleUsuario debe cachar la información de "InfoUsuarios" y mostrar en pantalla su nombre, edad y online, además debe mostrar un botón "Actualizar usuario"
 - Cuando se da click en "Actualizar usuario" se debe modificar el nombre del usuario agregando un "_(número de veces actualizado)" por ejemplo: nombre original "Mitsiu" después de un click en "Actualizar usuario" se modifica a "Mitsiu_1", si se dan dos clicks el nombre será "Mitsiu_2" (únicamente es requerido que se modifique el nombre en el componente "DetalleUsuario") 
 
-- AEEF
-Modificar el comportamiento del botón “Actualizar usuario” para que modifique la edad incrementandola      
-- JVDM
+### AEEF
+- Modificar el comportamiento del botón “Actualizar usuario” para que modifique la edad incrementandola      
+### JVDM
 Filtrar el arreglo usuarios para solo mostrar los usuarios que online sea true      
-- EHM
+### EHM
 Quitar el atributo “edad” en el arreglo de objetos del bullet dos
 - LADP
 Separar los botones para que estén en un componente diferente llamado “ModificarUsuario”
