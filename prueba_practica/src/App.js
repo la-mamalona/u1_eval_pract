@@ -9,7 +9,7 @@ class DetalleUsuario extends React.Component{
   render(){
     return (
       <div>
-        <p>Suerte</p>
+        <p>Suerte :3</p>
         <button>
           Actualizar usuario 
         </button> 
